@@ -1,0 +1,10 @@
+# PyInstaller directories
+build/
+dist/
+main.spec
+
+# Data used in testing
+*.json
+
+# IntelliJ / PyCharm
+.idea/
