@@ -1,7 +1,7 @@
 # PyInstaller directories
 build/
 dist/
-main.spec
+*.spec
 
 # Data used in testing
 *.json
